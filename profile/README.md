@@ -3,7 +3,7 @@
 ### 💧 Applied Mathematics · Multi-scale · Multi-physics · Computational Fluid Dynamics
 
 [![Warwick Mathematics Institute](https://img.shields.io/badge/Warwick_Mathematics_Institute-University_of_Warwick-6A0DAD?style=flat-square&logo=academia&logoColor=white)](https://warwick.ac.uk/fac/sci/maths)
-[![Personal Website](https://img.shields.io/badge/Group_Website-raducimpeanu.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.raducimpeanu.com)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-raducimpeanu.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.raducimpeanu.com)
 [![Primary Language](https://img.shields.io/badge/Language-Basilisk_C-00599C?style=flat-square&logo=c&logoColor=white)](http://basilisk.fr)
 [![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL--3.0-brightgreen?style=flat-square)](https://github.com/rcsc-group)
 
@@ -11,7 +11,7 @@
 
 ## 🔬 About the Group
 
-We are a computational applied mathematics research group based at the **[Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths)** in the United Kingdom. *Interfaces* is our keyword, with our work sitting at the intersection of analytical and computational methods, combining **reduced-order modelling**, **asymptotic analysis**, **stability theory** and **direct numerical simulation** targeting technologically relevant problems across fluid mechanics, computational acoustics, and beyond (with quite a few industrial mathematics projects and examples of knowledge exchange).
+We are a computational applied mathematics research group based at the **[Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths)** in the United Kingdom. We focus on *interfaces*, with our work sitting at the intersection of analytical and computational methods, combining **reduced-order modelling**, **asymptotic analysis**, **stability theory** and **direct numerical simulation** targeting technologically relevant problems across fluid mechanics (involving, you guessed it, *interfaces* arising in problems involving droplet, bubble or liquid film dynamics), computational acoustics, and beyond (with quite a few industrial mathematics projects and examples of knowledge exchange).
 
 ---
 
