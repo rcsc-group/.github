@@ -11,7 +11,7 @@
 
 ## 🔬 About the Group
 
-We are a computational applied mathematics research group based at the **[Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths)** in the United Kingdom. We focus on *interfaces*, with our work sitting at the intersection of analytical and computational methods, combining **reduced-order modelling**, **asymptotic analysis**, **stability theory** and **direct numerical simulation** targeting technologically relevant problems across fluid mechanics (involving, you guessed it, *interfaces* arising in problems involving droplet, bubble or liquid film dynamics), computational acoustics, and beyond (with quite a few industrial mathematics projects and examples of knowledge exchange).
+We are a computational applied mathematics research group based at the **[Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths)** in the United Kingdom. We focus on *interfaces*, with our work sitting at the intersection of analytical and computational methods, combining **reduced-order modelling**, **asymptotic analysis**, **stability theory** and **direct numerical simulation**, targeting technologically relevant problems across fluid mechanics (involving, you guessed it, *interfaces* arising in physical systems involving droplet, bubble or liquid film dynamics), computational acoustics, and beyond (with quite a few industrial mathematics projects and examples of knowledge exchange). Making physical insight and results arising from complex simulation workflows readily deployable and usable in cross-disciplinary contexts is an important mission of ours.
 
 ---
 
