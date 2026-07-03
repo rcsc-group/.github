@@ -4,7 +4,9 @@
 
 [![Warwick Mathematics Institute](https://img.shields.io/badge/Warwick_Mathematics_Institute-University_of_Warwick-6A0DAD?style=flat-square&logo=academia&logoColor=white)](https://warwick.ac.uk/fac/sci/maths)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-raducimpeanu.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.raducimpeanu.com)
-[![Primary Language](https://img.shields.io/badge/Language-Basilisk_C-00599C?style=flat-square&logo=c&logoColor=white)](http://basilisk.fr)
+[![Institutional Website](https://img.shields.io/badge/Institutional_Website-warwick/rcimpeanu/-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://warwick.ac.uk/fac/sci/maths/people/staff/cimpeanu/)
+[![Primary Language](https://img.shields.io/badge/Basilisk_C-DNS_&_VOF-00599C?style=flat-square&logo=c&logoColor=white)](http://basilisk.fr)
+[![oomph-lib](https://img.shields.io/badge/oomph--lib-FEM_&_Multi--physics-B5451B?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/oomph-lib/oomph-lib)
 [![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL--3.0-brightgreen?style=flat-square)](https://github.com/rcsc-group)
 
 ---
@@ -31,14 +33,19 @@ We are a computational applied mathematics research group based at the **[Warwic
 ## 🛠️ Technical Stack
 
 ![Basilisk C](https://img.shields.io/badge/Basilisk_C-DNS_&_VOF-00599C?style=flat-square&logo=c)
+![oomph-lib](https://img.shields.io/badge/oomph--lib-FEM_&_Multi--physics-B5451B?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Modelling_&_Postprocessing-0076A8?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Analysis_&_Visualisation-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-Parallel_HPC-FF6600?style=flat-square)
 ![ParaView](https://img.shields.io/badge/ParaView-Scientific_Visualisation-4B6EAF?style=flat-square)
 
-**Simulation framework:** [Basilisk C](http://basilisk.fr) — adaptive mesh refinement, volume-of-fluid interface tracking, MPI parallelisation  
+**Simulation frameworks:**
+- [Basilisk C](http://basilisk.fr) — adaptive mesh refinement, volume-of-fluid interface tracking, MPI parallelism
+- [oomph-lib](https://github.com/oomph-lib/oomph-lib) — object-oriented FEM library for multi-physics problems, fluid–structure interaction, acoustics
+
 **Modelling toolchains:** MATLAB (reduced-order models, asymptotic analysis), Python (post-processing, data workflows)  
 **HPC:** Warwick Scientific Computing Research Technology Platform; external allocations at national facilities
+
 
 ---
 
