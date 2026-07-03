@@ -17,6 +17,24 @@ We are a computational applied mathematics research group based at the **[Warwic
 
 ---
 
+## 🎓 Members
+
+### Current doctoral students
+
+- [Anton Oleinik](https://warwick.ac.uk/fac/sci/hetsys/people/hetsysstudents/antonoleinik/) — Interfacial flows in porous media (started 2025), co-supervised with [Ellen Luckins](https://warwick.ac.uk/fac/sci/maths/people/staff/Luckins/)
+- [Stephan Gambart](https://warwick.ac.uk/fac/sci/hetsys/people/hetsysstudents/stephangambart/) — Programmable fluids & metamaterials (started 2025), co-supervised with [Bryn Davies](https://warwick.ac.uk/fac/sci/maths/people/staff/Davies/)
+- [Rumesh Sudhaharan](https://warwick.ac.uk/fac/sci/hetsys/people/cohort6/rumeshsudhaharan/) — Spreading and solidifying droplets (started 2024), co-supervised with [James Sprittles](https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/) and [Thomas Sykes](https://warwick.ac.uk/fac/sci/eng/people/thomas_sykes/)
+- [Minerva Schuler](https://warwick.ac.uk/fac/sci/hetsys/people/cohort5/minervaschuler/) — Bioreactor modelling for alternative proteins (started 2023), co-supervised with [Ferran Brosa Planella](https://warwick.ac.uk/fac/sci/maths/people/staff/brosa-planella/)
+- [Sebastian Dooley](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/dooley/) — Data-driven approaches for liquid films (started 2022), co-supervised with [James Sprittles](https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/) and [Albert Bartok-Partay](https://warwick.ac.uk/fac/sci/eng/people/albert_bartok-partay/)
+
+### Alumni
+
+- [Oscar Holroyd](https://www.linkedin.com/in/oscar-holroyd-95b8152b3) · [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=axTaYyYAAAAJ) — Control strategies for thin film flows (HetSys CDT, 2021–2025), project co-supervised with [Susana Gomes](https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/)
+- [Benjamin Fudge](https://www.linkedin.com/in/ben-fudge-b81729252/) · [Google Scholar](https://scholar.google.co.uk/citations?user=S5x8qrUAAAAJ&hl=en&inst=11838829032869305745) — Drop impact and splashing dynamics (Department of Engineering Science, University of Oxford, 2018–2023), project co-supervised with [Alfonso Castrejon-Pita](https://eng.ox.ac.uk/people/alfonso-a-castrejon-pita)
+- [Michael Negus](https://www.linkedin.com/in/michael-negus) · [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=2pY9_AIAAAAJ) — High-speed impact onto deformable substrates (Mathematical Institute, University of Oxford, 2018–2022), project co-supervised with [Madeleine Moore](https://www.matheleine.com/) and [Jim Oliver](https://www.maths.ox.ac.uk/people/james.oliver)
+
+---
+
 ## 🎯 Research Themes
 
 <table>
