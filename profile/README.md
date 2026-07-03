@@ -103,7 +103,7 @@ We also work closely with colleagues at [Imperial College London](https://www.im
 
 ## 🌟 Sustainable Software Engineering Commitment
 
-For quite a few years we have done our best to release accessible implementations (source code, tutorial, examples) alongside any publications and outputs from the group. We will strive to do so in the future as well. Have a look around and do not hesitate to get in touch with us at conferences, workshops or just by reaching out if you have interesting ideas to extend this space.
+For quite a few years we have done our best to release accessible implementations (source code, tutorial, examples) alongside any publications and outputs from the group. We will strive to do so in the future as well. Have a look around and do not hesitate to get in touch with us at conferences, workshops or just by reaching out if you have interesting ideas to extend this space. A complete list of publication with companion codes can be found [here](https://github.com/rcsc-group/.github/blob/main/Publications.md).
 
 ---
 
