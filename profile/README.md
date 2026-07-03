@@ -122,7 +122,7 @@ We are in active collaboration with several fantastic experimental and theoretic
 | [Harris Lab](https://github.com/harrislab-brown) | Brown University | Drop impact · Bouncing dynamics · Bioreactors |
 | [Oxford Fluids Lab](https://github.com/OxfordFluidsLab) | University of Oxford | High-speed impact · Splashing · Coalescence |
 
-We also work closely with colleagues at [Imperial College London](https://www.imperial.ac.uk), the [Mathematical Institute at the University of Oxford](https://www.maths.ox.ac.uk/), [University of Manchester](https://www.manchester.ac.uk), [Loughborough University](https://www.loughborough.ac.uk), [Cranfield University](https://www.cranfield.ac.uk/), [University of East Anglia](https://www.uea.ac.uk/), [University of Strathclyde](https://www.strath.ac.uk), [University of Limerick](https://www.ul.ie/), [Queensland University of Technology](https://www.qut.edu.au/), and are grateful to the many fantastic colleagues across our community who support us.
+We also work closely with colleagues at [Imperial College London](https://www.imperial.ac.uk), the [Mathematical Institute at the University of Oxford](https://www.maths.ox.ac.uk/), the [University of Manchester](https://www.manchester.ac.uk), [Loughborough University](https://www.loughborough.ac.uk), [Cranfield University](https://www.cranfield.ac.uk/), the [University of East Anglia](https://www.uea.ac.uk/), the [University of Strathclyde](https://www.strath.ac.uk), the [University of Limerick](https://www.ul.ie/), [Queensland University of Technology](https://www.qut.edu.au/), and are grateful to the many friendly faces across our community who support us.
 
 ---
 
