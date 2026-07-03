@@ -108,14 +108,21 @@ We are also getting to grips with a few new exciting topics as we speak:
 
 ## 🤝 Collaborator Network
 
-We work closely with several fantastic experimental and theoretical groups, currently having strong collaborative links with:
+Around our own corridors at the [Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) you will often find us talking shop (or, more formally, collaborating with) amazing colleagues such as [Susana Gomes](https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/), [James Sprittles](https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/), 
+[Ferran Brosa Planella](https://warwick.ac.uk/fac/sci/maths/people/staff/brosa-planella/), 
+[Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/), 
+[Thomasina Ball](https://warwick.ac.uk/fac/sci/maths/people/staff/tball/),
+[Ellen Luckins](https://warwick.ac.uk/fac/sci/maths/people/staff/Luckins/) and
+[Bryn Davies](https://warwick.ac.uk/fac/sci/maths/people/staff/Davies/), as well as [Thomas Sykes](https://warwick.ac.uk/fac/sci/eng/people/thomas_sykes/) and [Albert Bartok-Partay](https://warwick.ac.uk/fac/sci/eng/people/albert_bartok-partay/) across departmental bridges.
+
+We are in active collaboration with several fantastic experimental and theoretical groups, currently having strong links over multiple projects with:
 
 | Group | Institution | Shared Focus |
 |---|---|---|
 | [Harris Lab](https://github.com/harrislab-brown) | Brown University | Drop impact · Bouncing dynamics · Bioreactors |
 | [Oxford Fluids Lab](https://github.com/OxfordFluidsLab) | University of Oxford | High-speed impact · Splashing · Coalescence |
 
-We also work closely with colleagues at [Imperial College London](https://www.imperial.ac.uk), [University of Manchester](https://www.manchester.ac.uk), [Loughborough University](https://www.loughborough.ac.uk), [Cranfield University](https://www.cranfield.ac.uk/), [University of East Anglia](https://www.uea.ac.uk/), [University of Strathclyde](https://www.strath.ac.uk), [University of Limerick](https://www.ul.ie/), [Queensland University of Technology](https://www.qut.edu.au/), and are grateful to the many fantastic colleagues across our network who support us.
+We also work closely with colleagues at [Imperial College London](https://www.imperial.ac.uk), the [Mathematical Institute at the University of Oxford](https://www.maths.ox.ac.uk/), [University of Manchester](https://www.manchester.ac.uk), [Loughborough University](https://www.loughborough.ac.uk), [Cranfield University](https://www.cranfield.ac.uk/), [University of East Anglia](https://www.uea.ac.uk/), [University of Strathclyde](https://www.strath.ac.uk), [University of Limerick](https://www.ul.ie/), [Queensland University of Technology](https://www.qut.edu.au/), and are grateful to the many fantastic colleagues across our community who support us.
 
 ---
 
@@ -128,7 +135,7 @@ For quite a few years we have done our best to release accessible implementation
 ## 💡 Get Involved
 
 - 🎓 **Prospective PhD/postdoc students:** See [open opportunities](https://www.raducimpeanu.com/supervision) or reach out directly
-- 🤝 **Research collaborations:** We welcome contacts from experimental, theoretical, and industrial partners
+- 🤝 **Research collaborations:** We welcome contacts from experimental, theoretical, and industry partners
 - 💻 **Code issues / questions:** Just get in touch, either by opening an issue or letting us know. We're pretty friendly!
 - 📧 **Contact:** [Radu.Cimpeanu [at] warwick.ac.uk](mailto:Radu.Cimpeanu@warwick.ac.uk) · [LinkedIn](https://www.linkedin.com/in/raducimpeanu/)
 
