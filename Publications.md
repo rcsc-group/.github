@@ -25,12 +25,12 @@ Harris, Alventosa, Sand, Silver, Mohammadi, Sykes, Castrejon-Pita, Cimpeanu
 **Nonlinear estimators for the observation and stabilization of falling liquid films**
 Holroyd, Cimpeanu, Gomes
 *Proceedings of the Royal Society A* **481**, 2327 (2025)
-[doi:10.1098/rspa.2025.0539](https://doi.org/10.1098/rspa.2025.0539)
+[doi:10.1098/rspa.2025.0539](https://doi.org/10.1098/rspa.2025.0539) · [📂 FallingFilmControlLQR2D](https://github.com/rcsc-group/FallingFilmControlLQR2D)
 
 **Drop rebound at low Weber number**
 Gabbard, Agüero, Cimpeanu, Kuehr, Silver, Barotta, Galeano-Rios, Harris
 *Journal of Fluid Mechanics* **1019**, A25 (2025)
-[doi:10.1017/jfm.2025.10589](https://doi.org/10.1017/jfm.2025.10589)
+[doi:10.1017/jfm.2025.10589](https://doi.org/10.1017/jfm.2025.10589) · [📂 BouncingDropletsSolidSurface](https://github.com/rcsc-group/BouncingDropletsSolidSurface)
 
 **Computational modeling of fluid motion in a rocking bioreactor**
 Kim, Harris, Cimpeanu
