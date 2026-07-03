@@ -21,12 +21,25 @@ We are a computational applied mathematics research group based at the **[Warwic
 
 <table>
   <tr>
+    <td align="center"><img src="images/image-splash.png" width="100%" alt="High-speed drop impact simulation"/></td>
+    <td align="center"><img src="images/image-drip.png" width="100%" alt="Multi-physics flow control simulation"/></td>
+    <td align="center"><img src="images/image-wave.png" width="100%" alt="Computational acoustics simulation"/></td>
+    <td align="center"><img src="images/image-plane.png" width="100%" alt="Industrial mathematics application"/></td>
+  </tr>
+  <tr>
     <td align="center" width="25%">💧<br><b>Drop impact</b><br><sub>Bouncing · Coalescence · Splashing · Multi-fluid systems</sub></td>
     <td align="center" width="25%">⚡<br><b>Multi-physics flow control</b><br><sub>Electrohydrodynamics · Falling films · Feedback control · Bioreactors</sub></td>
     <td align="center" width="25%">🔊<br><b>Computational acoustics</b><br><sub>Perfectly matched layers · Helmholtz equation · Focused ultrasound</sub></td>
     <td align="center" width="25%">🏭<br><b>Industrial mathematics</b><br><sub>Aircraft anti-icing · Vacuum pumps · Pesticide sprays · Port logistics</sub></td>
   </tr>
 </table>
+
+We are also getting to grips with a few new exciting topics as we speak:
+- 🔍 data-driven equation discovery - check out [our latest pre-print](https://arxiv.org/abs/2606.13336) on the topic!
+- 🧊 phase change and icing
+- 🌀 multi-stable meta-fluids
+- 🧩 flow through porous media
+- 🦠 non-Newtonian/rheological aspects of fluids flow
 
 ---
 
@@ -83,6 +96,8 @@ We work closely with several fantastic experimental and theoretical groups, curr
 |---|---|---|
 | [Harris Lab](https://github.com/harrislab-brown) | Brown University | Drop impact · Bouncing dynamics · Bioreactors |
 | [Oxford Fluids Lab](https://github.com/OxfordFluidsLab) | University of Oxford | High-speed impact · Splashing · Coalescence |
+
+We also work closely with colleagues at [Imperial College London](https://www.imperial.ac.uk), [University of Manchester](https://www.manchester.ac.uk), [Loughborough University](https://www.loughborough.ac.uk), [Cranfield University](https://www.cranfield.ac.uk/), [University of East Anglia](https://www.uea.ac.uk/), [University of Strathclyde](https://www.strath.ac.uk), [University of Limerick](https://www.ul.ie/), [Queensland University of Technology](https://www.qut.edu.au/), and are grateful to the many fantastic colleagues across our network who support us.
 
 ---
 
