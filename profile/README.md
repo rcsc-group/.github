@@ -112,7 +112,8 @@ Around our own corridors at the [Warwick Mathematics Institute](https://warwick.
 [Ferran Brosa Planella](https://warwick.ac.uk/fac/sci/maths/people/staff/brosa-planella/), 
 [Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/), 
 [Thomasina Ball](https://warwick.ac.uk/fac/sci/maths/people/staff/tball/),
-[Ellen Luckins](https://warwick.ac.uk/fac/sci/maths/people/staff/Luckins/) and
+[Ellen Luckins](https://warwick.ac.uk/fac/sci/maths/people/staff/Luckins/),
+[Kat Phillips](https://katdoesmaths.me/) and
 [Bryn Davies](https://warwick.ac.uk/fac/sci/maths/people/staff/Davies/), as well as [Thomas Sykes](https://warwick.ac.uk/fac/sci/eng/people/thomas_sykes/) and [Albert Bartok-Partay](https://warwick.ac.uk/fac/sci/eng/people/albert_bartok-partay/) across departmental bridges.
 
 We are in active collaboration with several fantastic experimental and theoretical groups, currently having strong links over multiple projects with:
