@@ -57,7 +57,7 @@ We are also getting to grips with a few new exciting topics as we speak:
 - 🧊 phase change and icing
 - 🌀 multi-stable meta-fluids
 - 🧩 flow through porous media
-- 🦠 non-Newtonian/rheological aspects of fluids flow
+- 🦠 non-Newtonian/rheological aspects of fluid flow
 
 ---
 
