@@ -8,6 +8,11 @@ All simulations are reproducible from the linked repositories. If you encounter 
 
 ## 2026
 
+**Liquid bridges between horizontal cylinders: Effects of gravity and electric fields**  
+Bokányi-Tóth, Archer, Cimpeanu, Bandulasena, Tóth, Tseluiko  
+*Journal of Fluid Mechanics* **1044**, A2 (2026) 
+[doi:10.1017/jfm.2026.12035](https://doi.org/10.1017/jfm.2026.12035) · [📂 LiquidBridge2D](https://github.com/rcsc-group/LiquidBridge2D)
+
 **Fast droplet impact onto slowly moving deep pools**
 Sykes, Alventosa, Castrejon-Pita, Cimpeanu, Harris, Castrejon-Pita
 *Journal of Fluid Mechanics* **1037**, A11 (2026)
