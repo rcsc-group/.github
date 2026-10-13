@@ -84,6 +84,7 @@ We are also getting to grips with a few new exciting topics as we speak:
 
 | Repository | Description | Tech | DOI |
 |---|---|---|---|
+| 💧 [LiquidBridge2D](https://github.com/rcsc-group/LiquidBridge2D) | 2D dynamics of non-electrified liquid bridges between cylinders | Basilisk C | [JFM 2026](https://doi.org/10.1017/jfm.2026.12035) |
 | 💧 [BouncingDroplets](https://github.com/rcsc-group/BouncingDroplets) | DNS of inertio-capillary drop rebound off liquid pools | Basilisk C | [JFM 2023](https://doi.org/10.1017/jfm.2023.88) |
 | 💧 [BouncingDropletsMovingPool3D](https://github.com/rcsc-group/BouncingDropletsMovingPool3D) | 3D drop impact in the bouncing regime onto moving pools | Basilisk C | [JFM 2026](https://doi.org/10.1017/jfm.2026.11232) |
 | 💧 [SplashingDropletsMovingPool3D](https://github.com/rcsc-group/SplashingDropletsMovingPool3D) | 3D drop impact in the splashing regime | Basilisk C | [JFM 2026](https://doi.org/10.1017/jfm.2026.11586) |
@@ -96,11 +97,12 @@ We are also getting to grips with a few new exciting topics as we speak:
 
 ## 📚 Recent Publications
 
-1. **Sykes, Alventosa, Castrejon-Pita, Cimpeanu, Harris, Castrejon-Pita** — *Fast droplet impact onto slowly moving deep pools*, J. Fluid Mech. **1037**, A11 (2026). [doi:10.1017/jfm.2026.11586](https://doi.org/10.1017/jfm.2026.11586)
-2. **Harris, Alventosa, Sand, Silver, Mohammadi, Sykes, Castrejon-Pita, Cimpeanu** — *Bouncing to coalescence transition for droplet impact onto moving liquid pools*, J. Fluid Mech. **1030**, A16 (2026). [doi:10.1017/jfm.2026.11232](https://doi.org/10.1017/jfm.2026.11232)
-3. **Holroyd, Cimpeanu, Gomes** — *Nonlinear estimators for the observation and stabilization of falling liquid films*, Proc. R. Soc. A **481**, 2327 (2025). [doi:10.1098/rspa.2025.0539](https://doi.org/10.1098/rspa.2025.0539)
-4. **Gabbard, Agüero, Cimpeanu, Kuehr, Silver, Barotta, Galeano-Rios, Harris** — *Drop rebound at low Weber number*, J. Fluid Mech. **1019**, A25 (2025). [doi:10.1017/jfm.2025.10589](https://doi.org/10.1017/jfm.2025.10589)
-5. **Kim, Harris, Cimpeanu** — *Computational modeling of fluid motion in a rocking bioreactor*, Int. J. Multiphase Flow **193**, 105375 (2025). [doi:10.1016/j.ijmultiphaseflow.2025.105375](https://doi.org/10.1016/j.ijmultiphaseflow.2025.105375)
+1. **Bokányi-Tóth, Archer, Cimpeanu, Bandulasena, Tóth, Tseluiko** — *Liquid bridges between horizontal cylinders: Effects of gravity and electric fields*, J. Fluid Mech. **1044**, A2 (2026). [doi:10.1017/jfm.2026.12035](https://doi.org/10.1017/jfm.2026.12035).
+2. **Sykes, Alventosa, Castrejon-Pita, Cimpeanu, Harris, Castrejon-Pita** — *Fast droplet impact onto slowly moving deep pools*, J. Fluid Mech. **1037**, A11 (2026). [doi:10.1017/jfm.2026.11586](https://doi.org/10.1017/jfm.2026.11586)
+3. **Harris, Alventosa, Sand, Silver, Mohammadi, Sykes, Castrejon-Pita, Cimpeanu** — *Bouncing to coalescence transition for droplet impact onto moving liquid pools*, J. Fluid Mech. **1030**, A16 (2026). [doi:10.1017/jfm.2026.11232](https://doi.org/10.1017/jfm.2026.11232)
+4. **Holroyd, Cimpeanu, Gomes** — *Nonlinear estimators for the observation and stabilization of falling liquid films*, Proc. R. Soc. A **481**, 2327 (2025). [doi:10.1098/rspa.2025.0539](https://doi.org/10.1098/rspa.2025.0539)
+5. **Gabbard, Agüero, Cimpeanu, Kuehr, Silver, Barotta, Galeano-Rios, Harris** — *Drop rebound at low Weber number*, J. Fluid Mech. **1019**, A25 (2025). [doi:10.1017/jfm.2025.10589](https://doi.org/10.1017/jfm.2025.10589)
+6. **Kim, Harris, Cimpeanu** — *Computational modeling of fluid motion in a rocking bioreactor*, Int. J. Multiphase Flow **193**, 105375 (2025). [doi:10.1016/j.ijmultiphaseflow.2025.105375](https://doi.org/10.1016/j.ijmultiphaseflow.2025.105375)
 
 → **[Full publication list](https://www.raducimpeanu.com/funding-and-output/publications)**
 
